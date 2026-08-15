@@ -8,4 +8,4 @@ Contributions and participation in project maintenance are welcome. Please consu
 
 ## Stewardship
 
-The UDST GitHub organization and its canonical repositories are administered and maintained by UrbanSim Inc. Community contributions remain governed by each repository's open-source license, and contributors retain any rights provided under those licenses.
+The UDST GitHub organization and its repositories are administered and maintained by UrbanSim Inc. Community contributions remain governed by each repository's open-source license, and contributors retain any rights provided under those licenses.
