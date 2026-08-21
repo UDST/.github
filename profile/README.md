@@ -1,10 +1,39 @@
 # Urban Data Science Toolkit
 
-UDST develops open-source tools for transportation, land-use, and urban modeling.
+UDST develops and maintains open-source software for urban simulation,
+transportation and accessibility analysis, workflow orchestration, and
+discrete-choice modeling.
+
+## Core projects
+
+- [UrbanSim](https://github.com/UDST/urbansim) — urban-development and regional
+  simulation methods and model components
+- [Orca](https://github.com/UDST/orca) — in-process orchestration for analytical
+  and simulation workflows
+- [ChoiceModels](https://github.com/UDST/choicemodels) — discrete-choice
+  specification, estimation, sampling, and simulation
+- [Pandana](https://github.com/UDST/pandana) — established network
+  accessibility and shortest-path APIs, maintained for compatibility
+- [UrbanAccess](https://github.com/UDST/urbanaccess) — integrated transit and
+  pedestrian network-data preparation
+
+See the [project directory](https://github.com/UDST/.github/blob/main/PROJECTS.md)
+for current status, mission, and reference architecture.
 
 UDST is resuming active maintenance of its core open-source projects. Current priorities and repository status are tracked in the [UDST Maintenance Revival project](https://github.com/orgs/UDST/projects/1).
 
 Contributions and participation in project maintenance are welcome. Please consult the organization-wide [contribution guidelines](../CONTRIBUTING.md) and the guidance in each repository before beginning substantial work.
+
+## Open-source projects and commercial offerings
+
+UDST projects provide open methods, interfaces, and self-managed reference
+implementations within defined technical scopes. UrbanSim Inc. separately
+provides commercial products and services, including prepared data,
+operational model implementations, managed computation, visualization, and
+continuing support.
+
+See [Open-source projects and commercial offerings](https://github.com/UDST/.github/blob/main/OPEN_SOURCE_AND_COMMERCIAL.md)
+for the full policy.
 
 ## Stewardship
 
