@@ -5,14 +5,15 @@ Toolkit GitHub organization and its repositories.
 
 ## Ownership and administration
 
-Paul Waddell owns the UDST GitHub organization. UrbanSim Inc. supports its
-administration and the maintenance of its repositories.
+Paul Waddell is the owner of the UDST GitHub organization and retains final
+administrative authority. UrbanSim Inc. administers the organization and
+supports maintenance of its repositories.
 
 GitHub ownership is distinct from copyright. Copyright in a contribution
 remains with its copyright holder unless it has been assigned separately. Each
 repository is distributed under its published license.
 
-Funding or contributing to a project does not confer ownership of UDST,
+Funding or contributing to a project does not confer organization ownership,
 administrative control of a repository, or authority to publish a release.
 
 ## Roles
@@ -51,14 +52,16 @@ administrative authority.
 ### Advisors and funders
 
 Agencies, research sponsors, users, and other partners may recommend
-priorities, fund work, and participate in roadmap discussions. Final decisions
-about repository scope, architecture, contributions, releases, credentials,
-and maintainer appointments remain with UDST maintainers and the organization
-owner.
+priorities, fund work, and participate in roadmap discussions. Designated
+maintainers decide ordinary repository matters within the project's documented
+scope. Decisions about organization policy, project mission, repository
+transfer, credentials, and maintainer appointments remain subject to the
+organization owner's authority.
 
 An advisory or pooled-funding group may govern its own budget and procurement.
-It does not govern UDST unless a separate public agreement grants it specific,
-limited authority.
+It does not govern UDST unless a written agreement expressly grants it
+specific, limited authority. Any such authority affecting public project
+governance should be disclosed.
 
 ## Technical decisions
 
@@ -77,9 +80,10 @@ transfers, and changes that materially expand maintenance obligations should be
 discussed before implementation.
 
 Changes that materially alter a project's mission or reference execution
-architecture receive organization-level review. The current policy and project
-designations are recorded in [Open-source projects and commercial
-offerings](OPEN_SOURCE_AND_COMMERCIAL.md) and the [UDST project
+architecture receive organization-level review by the organization owner in
+consultation with the maintainers of the affected repositories. The current
+policy and project designations are recorded in [Open-source projects and
+commercial offerings](OPEN_SOURCE_AND_COMMERCIAL.md) and the [UDST project
 directory](PROJECTS.md).
 
 Funding does not guarantee acceptance. Funded work undergoes the same
@@ -95,18 +99,20 @@ Each repository documents its supported versions and release process.
 
 UDST projects may be used independently and as foundations for commercial
 services. UrbanSim Inc. is a separate company founded by Paul Waddell. Its
-products and services are not UDST projects unless code is expressly released
-in a UDST repository.
+commercial products and services are not governed as UDST projects. Code
+expressly released in a UDST repository is governed by that repository's
+license and policies.
 
 The boundary is described in [Open-source projects and commercial
 offerings](OPEN_SOURCE_AND_COMMERCIAL.md).
 
 ## Continuity
 
-Administrative and release access should be maintained so that the projects do
-not depend on a single unavailable account. If a repository can no longer be
-maintained responsibly, UDST may seek maintainers, change its status, archive
-it, or arrange a transfer or fork.
+Recovery arrangements should be maintained for administrative and release
+access. This does not require granting routine organization-owner access to
+repository maintainers. If a repository can no longer be maintained
+responsibly, UDST may seek maintainers, change its status, archive it, or
+arrange an orderly transfer.
 
 Transfer of an official repository or organization-level control requires an
 explicit decision by the organization owner. It does not occur automatically
