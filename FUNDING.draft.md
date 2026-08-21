@@ -33,7 +33,9 @@ share is stated.
 ### Related NSF Biocomplexity research
 
 Two broader NSF projects connected this research program with land-cover
-change, real-estate development, urban ecosystems, and biodiversity:
+change, real-estate development, urban ecosystems, and biodiversity. Together
+with BCS-0120024, the awards documented on this page include seven on which
+Paul Waddell served as PI or formal co-PI.
 
 - [BCS-0120024](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0120024),
   *BE/CNH: Modeling Interactions Among Urban Development, Land-Cover Change,
@@ -41,9 +43,13 @@ change, real-estate development, urban ecosystems, and biodiversity:
   Marzluff, Paul Waddell, and Mark Handcock were co-PIs.
 - [BCS-0508002](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0508002),
   *BE/CNH: Urban Landscape Patterns: Complex Dynamics and Emergent Properties*
-  (2005–2010; $1,448,862). This was a related University of Washington
-  collaboration led by Marina Alberti. The NSF award record does not list Paul
-  Waddell as a PI or co-PI, so it is not included among the six awards above.
+  (2005–2010; $1,448,862). Marina Alberti was PI. NSF's public award record
+  lists Charles Redman, John Marzluff, Jianguo Wu, and Mark Handcock as the
+  four formal co-PIs. The [University of Washington project record](https://urbaneco.uw.edu/research/biocomplexity-ii/)
+  also identifies Paul Waddell among the project's investigators. Waddell was
+  a senior member of the interdisciplinary project team and contributed to its
+  urban-development and modeling work, but the available NSF record does not
+  identify him as a formal co-PI.
 
 ## EPA Science to Achieve Results
 
