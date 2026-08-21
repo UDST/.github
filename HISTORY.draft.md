@@ -13,11 +13,18 @@ and independent users have also made substantial contributions.
 
 ## Research origins
 
-Waddell began designing UrbanSim in the mid-1990s and implemented the first
-working prototype in Oregon in 1998. The first major research program took
-shape at the University of Washington, where development expanded to
-behaviorally explicit models of households, firms, real-estate markets, and
-development linked with transportation and environmental planning.
+UrbanSim's intellectual origins predate the University of Washington.
+Waddell's dissertation research at the University of Texas at Dallas,
+supervised by Brian J. L. Berry with John Kain serving as an informal advisor,
+provided part of the foundation for the work. The initial conceptual design of
+what became UrbanSim was developed during a consulting project for the Oahu
+Metropolitan Planning Organization in the mid-1990s.
+
+Waddell subsequently implemented the first working prototype for
+Eugene–Springfield, Oregon, in 1998. The research program then expanded at the
+University of Washington to behaviorally explicit models of households, firms,
+real-estate markets, and development linked with transportation and
+environmental planning.
 
 Beginning in 1999, National Science Foundation awards supported reusable
 modeling components, microsimulation architecture, public participation,
