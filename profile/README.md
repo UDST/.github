@@ -42,7 +42,16 @@ for the full policy.
 
 ## Stewardship
 
-The UDST GitHub organization and its repositories are administered and
-maintained by UrbanSim Inc. Community contributions remain governed by each
-repository's open-source license, and contributors retain any rights provided
-under those licenses.
+Paul Waddell founded UrbanSim and owns and stewards the UDST GitHub
+organization. UrbanSim Inc. administers the organization and supports
+repository maintenance.
+
+GitHub organization ownership is distinct from copyright in individual
+contributions. Each repository remains governed by its published open-source
+license.
+
+See the [History of UrbanSim and
+UDST](https://github.com/UDST/.github/blob/main/HISTORY.md), the [Governance
+policy](https://github.com/UDST/.github/blob/main/GOVERNANCE.md), and the
+[Credit and attribution
+policy](https://github.com/UDST/.github/blob/main/CREDIT_AND_ATTRIBUTION.md).
