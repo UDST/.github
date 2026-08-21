@@ -20,9 +20,14 @@ discrete-choice modeling.
 See the [project directory](https://github.com/UDST/.github/blob/main/PROJECTS.md)
 for current status, mission, and reference architecture.
 
-UDST is resuming active maintenance of its core open-source projects. Current priorities and repository status are tracked in the [UDST Maintenance Revival project](https://github.com/orgs/UDST/projects/1).
+UDST is resuming active maintenance of its core open-source projects. Current
+priorities are tracked in the [UDST Maintenance Revival
+project](https://github.com/orgs/UDST/projects/1).
 
-Contributions and participation in project maintenance are welcome. Please consult the organization-wide [contribution guidelines](../CONTRIBUTING.md) and the guidance in each repository before beginning substantial work.
+Contributions and participation in project maintenance are welcome. Please
+consult the organization-wide [contribution
+guidelines](https://github.com/UDST/.github/blob/main/CONTRIBUTING.md) and the
+guidance in each repository before beginning substantial work.
 
 ## Open-source projects and commercial offerings
 
@@ -37,4 +42,7 @@ for the full policy.
 
 ## Stewardship
 
-The UDST GitHub organization and its repositories are administered and maintained by UrbanSim Inc. Community contributions remain governed by each repository's open-source license, and contributors retain any rights provided under those licenses.
+The UDST GitHub organization and its repositories are administered and
+maintained by UrbanSim Inc. Community contributions remain governed by each
+repository's open-source license, and contributors retain any rights provided
+under those licenses.

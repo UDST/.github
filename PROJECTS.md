@@ -61,8 +61,8 @@ established APIs, and documentation for existing applications.
 
 UrbanAccess provides tools for constructing and preparing integrated transit
 and pedestrian networks from open transportation data for accessibility
-analysis. Its scope centers on reproducible multimodal network-data preparation
-and integration with maintained ecosystem libraries.
+analysis. It prepares reproducible multimodal network data for use with
+maintained acquisition and analysis libraries.
 
 ## Migration projects
 
@@ -73,7 +73,7 @@ and integration with maintained ecosystem libraries.
 
 OSMnet provides legacy OpenStreetMap network-acquisition functionality used by
 existing Pandana and UrbanAccess workflows while those projects migrate to
-maintained OSM ecosystem libraries. It will remain available until dependent
+maintained OSM libraries. It will remain available until dependent
 UDST projects have documented and released their replacement workflows.
 
 ## Other repositories
@@ -90,4 +90,3 @@ UDST's organization-level governance process.
 
 - [Open-source projects and commercial offerings](OPEN_SOURCE_AND_COMMERCIAL.md)
 - [Contribution guidelines](CONTRIBUTING.md)
-
