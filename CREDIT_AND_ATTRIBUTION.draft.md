@@ -1,12 +1,15 @@
 # Credit and attribution
 
-UDST records both the continuity of project leadership and the contributions of the wider community.
+UDST records the continuity of project leadership and the work of its
+contributors.
 
 ## Founding and stewardship
 
 UrbanSim was created by Paul Waddell. He has led its development across more than three decades as principal investigator, co-principal investigator, research lead, software architect, founder of UrbanSim Inc., and owner and steward of the UDST GitHub organization.
 
-This continuity should be stated in the organization history and in descriptions of the research program. It does not replace credit for the investigators, developers, students, agencies, and independent contributors whose work built the projects.
+The organization history and descriptions of the research program should state
+this continuity. They should also credit the investigators, developers,
+students, agencies, and independent contributors who built the projects.
 
 ## Repository-level credit
 
@@ -40,5 +43,6 @@ Before publishing an organization-wide list of named contributors, UDST should c
 4. the correct institutional affiliations for the period of contribution; and
 5. an appropriate software citation.
 
-Until that audit is complete, the Git history and repository acknowledgments remain the authoritative contributor record. No draft list should be presented as exhaustive.
-
+Until that audit is complete, repository history and acknowledgments are the
+best available contributor record. No organization-wide list should be
+presented as exhaustive.

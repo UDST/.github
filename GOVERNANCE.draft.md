@@ -1,76 +1,120 @@
 # UDST governance
 
-This document describes governance of the Urban Data Science Toolkit GitHub organization and its repositories. It is intended to make decision-making, maintenance authority, and the role of outside funding clear.
+This document describes how decisions are made for the Urban Data Science
+Toolkit GitHub organization and its repositories.
 
-## Stewardship and ownership
+## Ownership and administration
 
-The UDST GitHub organization is owned and administered by Paul Waddell, who founded UrbanSim and has led its research and development across its academic, public-sector, open-source, and commercial phases.
+Paul Waddell owns the UDST GitHub organization. UrbanSim Inc. supports its
+administration and the maintenance of its repositories.
 
-Administrative ownership of the GitHub organization is distinct from copyright in individual contributions. Each repository remains governed by its published open-source license. Contributors retain the rights provided by that license and by applicable law.
+GitHub ownership is distinct from copyright. Copyright in a contribution
+remains with its copyright holder unless it has been assigned separately. Each
+repository is distributed under its published license.
 
-No sponsor, customer, contractor, advisory group, or contributor acquires ownership of UDST, administrative control of its repositories, or release authority by funding work or participating in a project.
+Funding or contributing to a project does not confer ownership of UDST,
+administrative control of a repository, or authority to publish a release.
 
 ## Roles
 
 ### Organization owner
 
-The organization owner is responsible for:
+The organization owner controls:
 
-- organization settings, repository creation and archival, and access control;
+- organization settings, repository creation and archival, and access;
 - appointment and removal of maintainers;
-- protection of credentials, package indexes, signing keys, and release infrastructure;
-- resolution of governance disputes; and
-- continuity and succession planning.
+- package-publishing credentials and release infrastructure;
+- transfers of repositories; and
+- resolution of governance disputes.
 
-Organization-owner access is limited to people with an ongoing fiduciary or operational responsibility for UDST as a whole. It is not required for routine maintenance.
+Owner access is reserved for people with continuing responsibility for UDST as
+a whole. Routine repository maintenance does not require it.
 
 ### Repository maintainers
 
-Maintainers may triage issues, review and merge pull requests, manage releases, and guide the technical direction of repositories within their assigned scope. Appointment is based on sustained technical contribution, sound judgment, responsiveness, and trust. Maintainer authority may be limited by repository, branch, or release function.
+Maintainers may review and merge pull requests, triage issues, make releases,
+and guide technical work within the documented scope of their assigned
+repositories. Authority may be limited by repository, branch, or release
+function.
 
-Maintainers are expected to disclose material conflicts of interest, preserve contributor credit, and apply the same technical standards to funded and volunteer work.
+Maintainers are appointed on the basis of sustained contribution, judgment,
+responsiveness, and trust. They are expected to preserve contributor credit,
+disclose material conflicts of interest, and apply the same technical standards
+to funded and volunteer work.
 
 ### Contributors
 
-Contributors participate through issues, discussions, documentation, code, testing, and review. Contribution does not by itself confer maintainer or administrative status. Submissions are evaluated under the contribution policy and the requirements of the affected repository.
+Contributors participate through issues, discussions, documentation, code,
+testing, and review. Contribution does not by itself confer maintainer or
+administrative authority.
 
 ### Advisors and funders
 
-Public agencies, research sponsors, users, and other partners may recommend priorities, fund defined work, and participate in roadmap discussions. Their knowledge and investment are important to the projects. Final decisions about repository architecture, acceptance of contributions, releases, credentials, and maintainer appointments remain with UDST maintainers and the organization owner.
+Agencies, research sponsors, users, and other partners may recommend
+priorities, fund work, and participate in roadmap discussions. Final decisions
+about repository scope, architecture, contributions, releases, credentials,
+and maintainer appointments remain with UDST maintainers and the organization
+owner.
 
-An advisory or pooled-funding body may govern its own budget and procurement. It does not govern UDST unless a separate written agreement expressly establishes a narrowly defined authority and that arrangement is disclosed publicly.
+An advisory or pooled-funding group may govern its own budget and procurement.
+It does not govern UDST unless a separate public agreement grants it specific,
+limited authority.
 
 ## Technical decisions
 
-Routine decisions are made in the relevant repository through issues and pull requests. Maintainers consider:
+Routine decisions are made in the relevant repository through issues and pull
+requests. Reviews consider:
 
-- correctness, test coverage, and reproducibility;
-- compatibility with supported Python versions, platforms, and downstream users;
+- correctness, tests, and reproducibility;
+- compatibility with supported platforms and downstream users;
 - security and supply-chain risk;
-- consistency with the repository's purpose and architecture;
+- consistency with the project's mission and reference architecture;
 - documentation and migration costs; and
-- the ability to maintain the change after its initial funding ends.
+- the ability to maintain the change.
 
-Substantial changes should be discussed before implementation. Examples include removal of established APIs, major new subsystems, changes of license, migration to a new repository, or commitments that materially expand long-term maintenance obligations.
+Removal of established APIs, major new subsystems, license changes, repository
+transfers, and changes that materially expand maintenance obligations should be
+discussed before implementation.
 
-Funding a proposed change does not guarantee its acceptance. Funded contributions undergo the same technical, license, provenance, and maintenance review as other contributions.
+Changes that materially alter a project's mission or reference execution
+architecture receive organization-level review. The current policy and project
+designations are recorded in [Open-source projects and commercial
+offerings](OPEN_SOURCE_AND_COMMERCIAL.md) and the [UDST project
+directory](PROJECTS.md).
 
-## Releases and project status
+Funding does not guarantee acceptance. Funded work undergoes the same
+technical, license, provenance, and maintenance review as other contributions.
 
-Each repository documents its own supported versions and release process. Maintainers may designate a project as active, maintenance mode, experimental, or historical. Existing releases remain available under the licenses under which they were published; this does not require indefinite support for every release or API.
+## Releases
 
-Only designated maintainers may publish official UDST releases. Access to package indexes and release credentials is granted separately from general repository write access.
+Only designated maintainers may publish official UDST releases. Package-index
+and release credentials are granted separately from general repository access.
+Each repository documents its supported versions and release process.
 
 ## Open-source and commercial work
 
-UDST projects may be used independently, in academic and public-sector work, and as foundations for commercial services. UrbanSim Inc. is a separate commercial company founded by Paul Waddell. Its products and services are not governed as UDST projects unless code is expressly released into a UDST repository.
+UDST projects may be used independently and as foundations for commercial
+services. UrbanSim Inc. is a separate company founded by Paul Waddell. Its
+products and services are not UDST projects unless code is expressly released
+in a UDST repository.
 
-The boundary between UDST and UrbanSim Inc. is described in [Open-source projects and commercial offerings](OPEN_SOURCE_AND_COMMERCIAL.md).
+The boundary is described in [Open-source projects and commercial
+offerings](OPEN_SOURCE_AND_COMMERCIAL.md).
 
 ## Continuity
 
-The organization owner will maintain a succession plan for administrative access and critical release credentials. If a repository can no longer be responsibly maintained, UDST may seek new maintainers, place it in maintenance mode, archive it, or arrange an orderly transfer or fork. Any transfer of an official repository or organization-level control requires an explicit decision by the organization owner; it does not occur automatically because a particular sponsor funded maintenance.
+Administrative and release access should be maintained so that the projects do
+not depend on a single unavailable account. If a repository can no longer be
+maintained responsibly, UDST may seek maintainers, change its status, archive
+it, or arrange a transfer or fork.
+
+Transfer of an official repository or organization-level control requires an
+explicit decision by the organization owner. It does not occur automatically
+because a sponsor funded work on a project.
 
 ## Amendments
 
-Material changes to this policy should be proposed publicly and allowed a reasonable review period. Changes to administrative ownership, repository transfer, or licensing require explicit approval from the organization owner and compliance with the rights of copyright holders.
+Material changes to this policy should be proposed publicly before adoption.
+Changes to administrative ownership, repository transfer, or licensing require
+the organization owner's approval and must respect the rights of copyright
+holders.

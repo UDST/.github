@@ -1,8 +1,15 @@
 # History of UrbanSim and UDST
 
-UrbanSim was created by Paul Waddell in the 1990s as a new approach to modeling the interactions among land use, transportation, real-estate markets, households, employment, and public policy. It has developed through a sustained program of research, software engineering, and applied planning work spanning more than three decades.
+Paul Waddell created UrbanSim in the 1990s to model interactions among land
+use, transportation, real-estate markets, households, employment, and public
+policy. Research, software development, and planning applications have
+continued for more than three decades.
 
-Waddell has served continuously as principal investigator, co-principal investigator, research lead, software architect, or organizational steward across UrbanSim's academic, public-sector, open-source, and commercial phases. The work has also depended on a large community of co-investigators, software developers, students, planning agencies, research sponsors, and independent users.
+Waddell has served as principal investigator, co-principal investigator,
+research lead, software architect, or organizational steward across UrbanSim's
+academic, public-sector, open-source, and commercial phases. Co-investigators,
+developers, students, planning agencies, research sponsors, and independent
+users have also made substantial contributions.
 
 ## Research origins
 
@@ -18,7 +25,7 @@ UrbanSim was released as open-source software so that researchers and public age
 - **Orca** for data and model workflow orchestration;
 - **Pandana** for high-performance network accessibility and shortest-path analysis;
 - **ChoiceModels** for discrete-choice estimation and simulation; and
-- **UrbanAccess** for multimodal transportation-network construction and analysis.
+- **UrbanAccess** for multimodal transportation-network preparation and integration.
 
 These projects became the Urban Data Science Toolkit. Their histories are related, but each has its own contributors, releases, licenses, and downstream users.
 
@@ -38,6 +45,13 @@ UDST and UrbanSim Inc. are related but not interchangeable. UDST provides indepe
 
 ## Stewardship today
 
-UDST is renewing active maintenance of its core repositories, improving compatibility and release practices, documenting their research and application history, and broadening the maintainer community. Paul Waddell remains the owner and steward of the UDST organization. Technical credit belongs to the many people whose work appears in repository history, publications, releases, and project documentation.
+UDST is renewing maintenance of its core repositories, updating compatibility
+and release practices, and documenting their research and application history.
+Paul Waddell owns and stewards the UDST GitHub organization; UrbanSim Inc.
+supports its administration and repository maintenance. Technical credit
+belongs to the people whose work appears in repository history, publications,
+releases, and project documentation.
 
-Detailed award information appears in [Research support and acknowledgments](FUNDING.draft.md). A separately maintained applications record should provide sources and distinguish documented deployments from preliminary or uncertain work.
+Research support and applications will be documented separately with sources.
+Application records should distinguish operational deployments, research
+applications, prototypes, and preliminary work.
