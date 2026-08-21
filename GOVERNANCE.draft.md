@@ -65,9 +65,11 @@ transfer, credentials, and maintainer appointments remain subject to Paul
 Waddell's final governance authority.
 
 An advisory or pooled-funding group may govern its own budget and procurement.
-It does not govern UDST unless a written agreement expressly grants it
-specific, limited authority. Any such authority affecting public project
-governance should be disclosed.
+Funding does not confer ownership, repository administration, release
+authority, or control of project scope. A written agreement may establish a
+specific consultative or decision-making role, but any such authority must be
+limited, approved by Paul Waddell or a formally designated successor, and
+publicly disclosed.
 
 ## Technical decisions
 
