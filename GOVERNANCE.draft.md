@@ -5,9 +5,14 @@ Toolkit GitHub organization and its repositories.
 
 ## Ownership and administration
 
-Paul Waddell is the owner of the UDST GitHub organization and retains final
-administrative authority. UrbanSim Inc. administers the organization and
-supports maintenance of its repositories.
+Paul Waddell founded and owns UDST and retains final governance authority.
+UrbanSim Inc. administers the GitHub organization and supports maintenance of
+its repositories.
+
+GitHub also uses **organization owner** as the name of an access role with full
+administrative permissions. That role may be granted to additional people for
+continuity or operational needs. Granting technical access does not by itself
+transfer ownership or final governance authority.
 
 GitHub ownership is distinct from copyright. Copyright in a contribution
 remains with its copyright holder unless it has been assigned separately. Each
@@ -18,9 +23,9 @@ administrative control of a repository, or authority to publish a release.
 
 ## Roles
 
-### Organization owner
+### Organization owner access
 
-The organization owner controls:
+People with GitHub organization-owner access can control:
 
 - organization settings, repository creation and archival, and access;
 - appointment and removal of maintainers;
@@ -28,8 +33,9 @@ The organization owner controls:
 - transfers of repositories; and
 - resolution of governance disputes.
 
-Owner access is reserved for people with continuing responsibility for UDST as
-a whole. Routine repository maintenance does not require it.
+Owner access is reserved for people with continuing operational responsibility
+for UDST as a whole. Routine repository maintenance does not require it.
+Governance decisions remain subject to the authority described in this policy.
 
 ### Repository maintainers
 
@@ -55,8 +61,8 @@ Agencies, research sponsors, users, and other partners may recommend
 priorities, fund work, and participate in roadmap discussions. Designated
 maintainers decide ordinary repository matters within the project's documented
 scope. Decisions about organization policy, project mission, repository
-transfer, credentials, and maintainer appointments remain subject to the
-organization owner's authority.
+transfer, credentials, and maintainer appointments remain subject to Paul
+Waddell's final governance authority.
 
 An advisory or pooled-funding group may govern its own budget and procurement.
 It does not govern UDST unless a written agreement expressly grants it
@@ -80,11 +86,11 @@ transfers, and changes that materially expand maintenance obligations should be
 discussed before implementation.
 
 Changes that materially alter a project's mission or reference execution
-architecture receive organization-level review by the organization owner in
-consultation with the maintainers of the affected repositories. The current
-policy and project designations are recorded in [Open-source projects and
-commercial offerings](OPEN_SOURCE_AND_COMMERCIAL.md) and the [UDST project
-directory](PROJECTS.md).
+architecture receive organization-level review by Paul Waddell, or a formally
+designated successor, in consultation with the maintainers of the affected
+repositories. The current policy and project designations are recorded in
+[Open-source projects and commercial offerings](OPEN_SOURCE_AND_COMMERCIAL.md)
+and the [UDST project directory](PROJECTS.md).
 
 Funding does not guarantee acceptance. Funded work undergoes the same
 technical, license, provenance, and maintenance review as other contributions.
@@ -115,12 +121,12 @@ responsibly, UDST may seek maintainers, change its status, archive it, or
 arrange an orderly transfer.
 
 Transfer of an official repository or organization-level control requires an
-explicit decision by the organization owner. It does not occur automatically
-because a sponsor funded work on a project.
+explicit decision by Paul Waddell or a formally designated successor. It does
+not occur automatically because a sponsor funded work on a project.
 
 ## Amendments
 
 Material changes to this policy should be proposed publicly before adoption.
 Changes to administrative ownership, repository transfer, or licensing require
-the organization owner's approval and must respect the rights of copyright
-holders.
+Paul Waddell's approval, or that of a formally designated successor, and must
+respect the rights of copyright holders.
