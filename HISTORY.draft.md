@@ -34,11 +34,10 @@ Because implementations differed in maturity and institutional relationship, UDS
 
 Paul Waddell founded UrbanSim Inc. to provide the data engineering, implementation, hosting, calibration, visualization, training, and support required for production use. The company has continued research and development with public agencies and national laboratories while building commercial products for managed scenario planning.
 
-UDST and UrbanSim Inc. are related but not interchangeable. UDST provides independently usable open-source projects. UrbanSim Inc. provides commercial products, services, managed infrastructure, and separately developed technology. The distinction is set out in [Open-source projects and commercial offerings](OPEN_SOURCE_AND_COMMERCIAL.draft.md).
+UDST and UrbanSim Inc. are related but not interchangeable. UDST provides independently usable open-source projects. UrbanSim Inc. provides commercial products, services, managed infrastructure, and separately developed technology. The distinction is set out in [Open-source projects and commercial offerings](OPEN_SOURCE_AND_COMMERCIAL.md).
 
 ## Stewardship today
 
 UDST is renewing active maintenance of its core repositories, improving compatibility and release practices, documenting their research and application history, and broadening the maintainer community. Paul Waddell remains the owner and steward of the UDST organization. Technical credit belongs to the many people whose work appears in repository history, publications, releases, and project documentation.
 
 Detailed award information appears in [Research support and acknowledgments](FUNDING.draft.md). A separately maintained applications record should provide sources and distinguish documented deployments from preliminary or uncertain work.
-

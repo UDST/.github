@@ -65,7 +65,7 @@ Only designated maintainers may publish official UDST releases. Access to packag
 
 UDST projects may be used independently, in academic and public-sector work, and as foundations for commercial services. UrbanSim Inc. is a separate commercial company founded by Paul Waddell. Its products and services are not governed as UDST projects unless code is expressly released into a UDST repository.
 
-The boundary between UDST and UrbanSim Inc. is described in [Open-source projects and commercial offerings](OPEN_SOURCE_AND_COMMERCIAL.draft.md).
+The boundary between UDST and UrbanSim Inc. is described in [Open-source projects and commercial offerings](OPEN_SOURCE_AND_COMMERCIAL.md).
 
 ## Continuity
 
@@ -74,4 +74,3 @@ The organization owner will maintain a succession plan for administrative access
 ## Amendments
 
 Material changes to this policy should be proposed publicly and allowed a reasonable review period. Changes to administrative ownership, repository transfer, or licensing require explicit approval from the organization owner and compliance with the rights of copyright holders.
-
