@@ -51,5 +51,7 @@ contributions. Each repository remains governed by its published open-source
 license.
 
 See the [History of UrbanSim and
-UDST](https://github.com/UDST/.github/blob/main/HISTORY.md) and the [Credit and
-attribution policy](https://github.com/UDST/.github/blob/main/CREDIT_AND_ATTRIBUTION.md).
+UDST](https://github.com/UDST/.github/blob/main/HISTORY.md), the [Governance
+policy](https://github.com/UDST/.github/blob/main/GOVERNANCE.md), and the
+[Credit and attribution
+policy](https://github.com/UDST/.github/blob/main/CREDIT_AND_ATTRIBUTION.md).
