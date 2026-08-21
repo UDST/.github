@@ -40,6 +40,17 @@ continuing support.
 See [Open-source projects and commercial offerings](https://github.com/UDST/.github/blob/main/OPEN_SOURCE_AND_COMMERCIAL.md)
 for the full policy.
 
+## Research foundations
+
+UDST grew from a long-running program of research in urban simulation,
+transportation, accessibility, and planning. Its development was supported by
+the National Science Foundation, the Environmental Protection Agency, other
+public research sponsors, planning agencies, and many academic collaborators.
+
+See [Research support and acknowledgments](https://github.com/UDST/.github/blob/main/FUNDING.md)
+for the principal awards, institutional partnerships, and later publicly
+sponsored research that contributed to this work.
+
 ## Stewardship
 
 Paul Waddell founded UrbanSim and owns and stewards the UDST GitHub
